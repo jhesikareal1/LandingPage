@@ -6,3 +6,7 @@ h1,
       body {
         background-color: rgb(228, 202, 168);
       }
+      div{
+        width: 300px;
+        background-color: orangered;
+      }
