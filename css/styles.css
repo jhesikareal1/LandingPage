@@ -5,6 +5,9 @@ p {
 }
 body {
   background-color: rgb(228, 202, 168);
+  background-image: url(/images/MariaTeaShop.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .teaMenu {
   width: 80%;
