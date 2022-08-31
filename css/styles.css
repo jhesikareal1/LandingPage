@@ -7,6 +7,7 @@ body {
   background-color: rgb(228, 202, 168);
 }
 div {
-  background-color: rgb(228, 202, 168);
-  width: 300px;
+  width: 80%;
+  /* background-color: rgb(228, 202, 168); */
+  background-color: orange;
 }
