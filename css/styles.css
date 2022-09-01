@@ -8,6 +8,8 @@ body {
   background-image: url(/images/MariaTeaShop.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  font-family: 'Roboto', sans-serif;
+
 }
 .teaMenu {
   width: 80%;
