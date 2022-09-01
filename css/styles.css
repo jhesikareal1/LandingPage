@@ -20,3 +20,7 @@ body {
 .teaFlavor {
   text-align: left;
 }
+
+.teaPrice {
+  text-align: right;
+}
