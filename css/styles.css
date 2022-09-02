@@ -12,7 +12,8 @@ body {
 
 }
 .teaMenu {
-  width: 80%;
+  width: 80%; 
+  max-width: 500px;
   /* background-color: rgb(228, 202, 168); */
   background-color: rgba(228, 202, 168, 0.406);
   margin-left: auto;
