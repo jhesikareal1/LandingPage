@@ -65,7 +65,10 @@ hr {
   width: 25%;
 }
 
+/* footer for the header section*/
 
 footer {
   font-size: 14px;
 }
+
+a {color: black;}
