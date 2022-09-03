@@ -66,13 +66,13 @@ hr {
 
 
 .teaFlavor, .teaCollection{
-  background-color: red;
+  /* background-color: red; */
   text-align: left;
   width: 75%;
 }
 
 .teaPrice, .collectionPrice {
-  background-color: blue;
+  /* background-color: blue; */
   text-align: right;
   width: 25%;
 }
