@@ -71,4 +71,23 @@ footer {
   font-size: 14px;
 }
 
-a {color: black;}
+a {
+  color: black;
+}
+
+a:link {
+  color: green;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: lightgray;
+}
+
+a:active {
+  color: yellow;
+}
+
